@@ -1,9 +1,0 @@
-Q. HOW TO PRINT STUDENT ID CARD?
-
-A - To Download Student ID Card We have to open Student Information Module After
-that click on the reports, Under the reports there is a ID Card Entity Click on it Then the
-form will open and by entering the details such as Program, Class, Roll No, Name, we
-have to Click on Show option the ID card will be generated. We can print it by clicking on
-the print option.
-
-
